@@ -1,0 +1,27 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "core": "app.8ec9akvj.js",
+  "corePolyfilled": "app.meiqwcpk.js",
+  "components": {
+    "my-todo": {
+      "bundleIds": {
+        "$": "19zg96sf"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-input": {
+      "bundleIds": {
+        "$": "19zg96sf"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-item": {
+      "bundleIds": {
+        "$": "19zg96sf"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
