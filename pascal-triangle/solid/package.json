@@ -14,12 +14,12 @@
     "start": "npx http-server dist & npm run dev"
   },
   "dependencies": {
-    "babel-plugin-jsx-dom-expressions": "0.9.7",
-    "solid-element": "0.5.0"
+    "solid-element": "0.6.2"
   },
   "devDependencies": {
-    "@babel/core": "7.4.5",
-    "rollup": "1.13.1",
+    "@babel/core": "7.6.2",
+    "babel-preset-solid": "0.1.1",
+    "rollup": "1.21.4",
     "rollup-plugin-babel": "4.3.2",
     "rollup-plugin-node-resolve": "5.0.1",
     "rollup-plugin-terser": "5.0.0"
